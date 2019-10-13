@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<booklist>
+<book id="1">
+    <Title>Economics in One Lesson</Title>
+    <Authors>
+        <Author>Henry Hazlitt</Author>
+    </Authors>
+    <Publisher>CURRENCY: THE CROWN PUBLISHING GROUP</Publisher>
+    <Year>1988</Year>
+    <City>New York</City>
+    <Rating>4.5</Rating>  
+    </book>
+<book id="2">
+    <Title>Freakonomics</Title>
+    <Authors>
+        <Author>Steven D. Levitt and Stephen J. Dubner</Author>
+    </Authors>
+    <Publisher>William Morrow: HarperCollins</Publisher>
+    <Year>2005</Year>
+    <City>New York</City>
+    <Rating>4.4</Rating>  
+</book>
+<book id="3">
+    <Title>Competing for the Future</Title>
+    <Authors>
+        <Author>Gary Hamel and C.K. Prahalad</Author>
+    </Authors>
+    <Publisher>Harvard Business School Press</Publisher>
+    <Year>1996</Year>
+    <City>New York</City>
+    <Rating>4.3</Rating>  
+</book>
+  </booklist>
