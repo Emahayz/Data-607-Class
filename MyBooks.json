@@ -1,0 +1,26 @@
+[
+ {
+   "Title": "Economics in One Lesson",
+   "Author": "Henry Hazlitt",
+   "Publisher": "CURRENCY: THE CROWN PUBLISHING GROUP",
+   "Year": 1988,
+   "City": "New York",
+   "Rating": 4.5
+ },
+ {
+   "Title": "Freakonomics",
+   "Author": "Steven D. Levitt and Stephen J. Dubner",
+   "Publisher": "William Morrow: HarperCollins",
+   "Year": 2005,
+   "City": "New York",
+   "Rating": 4.4
+ },
+ {
+   "Title": "Competing for the Future",
+   "Author": "Gary Hamel and C.K. Prahalad",
+   "Publisher": "Harvard Business School Press",
+   "Year": 1996,
+   "City": "New York",
+   "Rating": 4.3
+ }
+]
